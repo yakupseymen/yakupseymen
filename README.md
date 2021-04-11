@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yakupseymen
+# 👋 Hi, I’m @yakupseymen
 - 👀 I’m interested in UI/UX.
 - 🌱 I’m currently learning Next.js
 
