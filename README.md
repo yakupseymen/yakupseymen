@@ -1,6 +1,5 @@
-# 👋 Hi, I’m @yakupseymen
-- 👀 I’m interested in UI/UX.
-- 🌱 I’m currently learning Next.js
+### 👋 Hi, I’m Yakup.
+I’m interested in UI/UX, Wordpress. I’m currently learning Next.js
 
 <!---
 yakupseymen/yakupseymen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
